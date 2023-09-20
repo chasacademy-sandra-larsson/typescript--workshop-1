@@ -5,7 +5,7 @@
 **Syftet med denna workshop:** Förstå vad Typescript är och vad det kan användas till. De olika områdena inom Typescrpt som denna workshop fokuserar på:
 
 * Installera Typescript + köra Typescriptkompilatorn. Dv.s setup av ett vanilla TS-projekt i Node
-* Primitiva typer + type any
+* Primitiva typer + typen any
 * Objekt med Type eller Interface
 * Arrayer
 * Funktioner
