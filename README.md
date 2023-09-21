@@ -15,7 +15,7 @@
 
 ```
 npm init
-npm install typescript ts-node
+npm install typescript ts-node --save-dev
 npx tsc --init
 npx tsc // bygg om .ts => .js
 ts-node index.ts // kör ts-filen i node
@@ -55,7 +55,7 @@ Välj och vraka efter eget tycke :-)
 1. [https://www.totaltypescript.com/tutorials/beginners-typescript
   ](https://www.totaltypescript.com/tutorials/beginners-typescript) Uppgift 1-8 G-nivå
 2. [https://typescript-exercises.github.io/](https://typescript-exercises.github.io/) Uppgift 1-4 G-nivå
-3. [https://github.com/LearningTypeScript/projects](https://github.com/LearningTypeScript/projects) - Följer [denna O'really bok](https://www.oreilly.com/library/view/learning-typescript/9781098110321/?_gl=1*pv2bzi*_ga*MTgzNjg0Njk0Ny4xNjk1MDMwMDU5*_ga_092EL089CH*MTY5NTIxMjAxOS4yLjEuMTY5NTIxMjIzNS40MS4wLjA.), men du måste inte ha boken. Utgå från mappar "The type system", "Union and Literals", Objects, Functions, Arrays. De delar in övningarna Appertizer (= G-nivå), Entrees (VG-nivå), Desserts (VG-nivå)
+3. [https://github.com/LearningTypeScript/projects](https://github.com/LearningTypeScript/projects) - Följer [denna O'really bok](https://www.oreilly.com/library/view/learning-typescript/9781098110321/?_gl=1*pv2bzi*_ga*MTgzNjg0Njk0Ny4xNjk1MDMwMDU5*_ga_092EL089CH*MTY5NTIxMjAxOS4yLjEuMTY5NTIxMjIzNS40MS4wLjA.), men du måste inte ha boken. Utgå från mappar "The type system", "Union and Literals", "Objects", "Functions", "Arrays". De delar in övningarna Appertizer (= G-nivå), Entrees (VG-nivå), Desserts (VG-nivå)
 4. Gör om en befintligt vanilla JS projekt till vanilla TS projekt (i lagom omfattning VG-nivå)
 
 
