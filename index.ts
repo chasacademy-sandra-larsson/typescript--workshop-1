@@ -222,9 +222,9 @@
     ];
 
 
-    const summetTemperatures: any = getSummerNightsTemperature(tempMeasurements);
+    const summerTemperatures: any = getSummerNightsTemperature(tempMeasurements);
 
-    console.log(summetTemperatures);
+    console.log(summerTemperatures);
 
   };
 
