@@ -190,7 +190,7 @@
 
     const getSummerNightsTemperature = (tempMeasurements: any): any =>
 
-      tempMeasurements.filter((data: any) => data.temperature > 10);
+      tempMeasurements.filter((data: any) => data.temp > 10);
 
 
     const tempMeasurements: any = [
