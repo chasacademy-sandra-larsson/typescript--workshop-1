@@ -18,7 +18,7 @@ npm install typescript --save-dev
 npx tsc // bygg om .ts => .js
 ```
 
-Ändra i kompilerinsingställningarna (tsconfig.json) vad du vill kompilera JS-filen (outDir) och från vilken mapp du vill kompilera .ts-filerna (include)
+Ändra i kompileringsinställningarna (tsconfig.json) var (till vilken mapp) du vill kompilera TS-filerna till (outDir) och från vilken mapp du vill kompilera .ts-filerna (include)
 
 
 ### Bra att veta
