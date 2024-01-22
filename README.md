@@ -1,7 +1,7 @@
 
 # Typescript #1: Intro till Typescript 
 
-**Syftet med dessa övningar:** Förstå vad Typescript är och vad det kan användas till. De olika områdena inom Typescrpt som denna workshop fokuserar på:
+**Syftet med dessa övningar:** I denna uppgift ska du testa på:
 
 * Installera Typescript + köra Ttypescriptkompilatorn (tsc) 
 * Primitiva typer + typen any
