@@ -18,7 +18,7 @@ npm install typescript --save-dev
 npx tsc // bygg om .ts => .js
 ```
 
-Ändra i kompileringsinställningarna (tsconfig.json) var (till vilken mapp) du vill kompilera TS-filerna till (outDir) och från vilken mapp du vill kompilera .ts-filerna (include)
+Ändra i kompileringsinställningarna (tsconfig.json) var (till vilken mapp) du vill kompilera TS-filerna till (```/outDir```) och från vilken mapp du vill kompilera .ts-filerna (```/include```)
 
 
 ### Bra att veta
@@ -34,7 +34,7 @@ Länk till Typescriptdokumentation, så börja bli vän med den redan nu :-)
 1. Utgå från ex1.ts, ex2.ts etc. Skapa egna typer (type) samt byta ut alla any till passande typ
 
 
- ✅ Du är klar med uppgiften när alla any är utbytta och du inte har några "type error" (d.v.s tsc ger 0 fel)
+ ✅ Du är klar med uppgiften när alla any är utbytta och du inte har några "type error" (d.v.s tsc-kompilatorn ger 0 fel)
 
 # 🏃🏽‍♂️ Extrauppgifter
 
