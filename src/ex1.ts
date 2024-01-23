@@ -16,6 +16,6 @@ const sum = (num1: any, num2: any): any => num1 + num2;
 sum(1, 2);
 
 
-const names = ["Sandra", "Stina", "Torsten"];
+const names: any = ["Sandra", "Stina", "Torsten"];
 
 names.forEach(person => {console.log(`Hi you one of all ${person}`)});
